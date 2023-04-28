@@ -1,4 +1,4 @@
-# [ARCHIVED] PHP Connect sample using Microsoft Graph
+#  PHP Connect sample using Microsoft Graph
 
 ## IMPORTANT
 
